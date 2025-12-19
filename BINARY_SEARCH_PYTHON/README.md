@@ -39,15 +39,14 @@ and clean separation of concerns.
 
 ## ▶️ Example Usage
 
-**Input**: 12,33,44
-**Output**:
+- **Input**:
+``` 12,33,44 ```
+- **Output**: 
+```
 Number 12 is found in the list at index 2
 Sorry,Dude! The number 33 doesn't exist in the list..
 Sorry,Dude! The number 44 doesn't exist in the list..
-
-Process finished with exit code 0
----
-
+```
 ---
 
 ## 🛠 Tech Stack
