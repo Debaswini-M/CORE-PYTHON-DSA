@@ -1,4 +1,4 @@
-# Linear Search in Python
+# Linear Search with Multiple Inputs (Python)
 
 A simple and clean implementation of linear search that supports
 searching for multiple target values in a list.
@@ -11,13 +11,15 @@ searching for multiple target values in a list.
 
 ## Example
 
-Input:
-22,4,66
+**Input**:
+``` 22,4,66 ```
 
-Output:
+**Output**:
+```
 Sorry, Dude! The number 22 doesn't exist in the list.
 Number 4 found in the list at index 3
 Sorry, Dude! The number 66 doesn't exist in the list.
+```
 
 ## What I Learned
 - Difference between values and indices in Python loops
@@ -25,4 +27,9 @@ Sorry, Dude! The number 66 doesn't exist in the list.
 - Debugging iterator and method-call issues (`items()`)
 
 ## Tech Stack
-- Python 3
+
+- Python 3.x
+- No external libraries required
+
+---
+⭐ If you find this repository useful, feel free to star it.
