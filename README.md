@@ -5,5 +5,3 @@ This repository contains my hands-on practice and implementations of
 
 The goal of this repo is to strengthen fundamentals, build problem-solving
 intuition, and document my learning journey through clean, readable code.
-
----
